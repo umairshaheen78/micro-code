@@ -11,7 +11,8 @@
         "main.blocks",
         "main.ts",
         "test.ts",
-        "tsconfig.json"
+        "tsconfig.json",
+        null
     ],
     "targetVersions": {
         "target": "5.0.12",
