@@ -2,7 +2,7 @@
 [![stars - micro-code](https://img.shields.io/github/stars/umairshaheen78/micro-code?style=social)](https://github.com/umairshaheen78/micro-code)
 [![forks - micro-code](https://img.shields.io/github/forks/umairshaheen78/micro-code?style=social)](https://github.com/umairshaheen78/micro-code)
 
-[![GitHub tag](https://img.shields.io/github/tag/umairshaheen78/micro-code?include_prereleases=&sort=semver&color=blue)](https://github.com/umairshaheen78/micro-code/releases/)
+[![Version](https://img.shields.io/github/tag/umairshaheen78/micro-code?include_prereleases=&sort=semver&color=blue)](https://github.com/umairshaheen78/micro-code/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 <div align="center">
