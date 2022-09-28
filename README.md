@@ -9,7 +9,7 @@
 
 [![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/umairshaheen78/micro-code/generate)
 
-[![View site - Github Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://umairshaheen78.github.io/micro-code/)
+[![View site - Github Pages](https://img.shields.io/badge/View_site-GITHUB_Pages-2ea44f?style=for-the-badge)](https://umairshaheen78.github.io/micro-code/)
 
 Released under [MIT](/LICENSE) by [@umairshaheen78](https://github.com/umairshaheen78).
 
