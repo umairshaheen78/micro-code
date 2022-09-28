@@ -1,10 +1,10 @@
 input.onButtonPressed(Button.A, function () {
-    basic.showString("" + (images.createBigImage(`
-        . # # # . . # . . #
-        # . . . # . # . # .
-        # . . . # . # # . .
-        # . . . # . # . # .
-        . # # # . . # . . #
+    basic.showString("" + (images.createImage(`
+        . . . . .
+        . . . . .
+        . . . . #
+        . # . # .
+        . . # . .
         `)))
     basic.showLeds(`
         . # . . .
