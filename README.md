@@ -9,7 +9,7 @@
 
 [![View site - Github Pages](https://img.shields.io/badge/View_site-GITHUB_Pages-2ea44f?style=for-the-badge)](https://umairshaheen78.github.io/micro-code/)
 
-Released under [MIT](/LICENSE) by [@umairshaheen78](https://github.com/umairshaheen78).
+Released under [MIT](/LICENSE) License by [@umairshaheen78](https://github.com/umairshaheen78).
 
 > Open this page at [https://umairshaheen78.github.io/micro-code/](https://umairshaheen78.github.io/micro-code/)
 
