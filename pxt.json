@@ -1,21 +1,16 @@
 {
-    "name": "micro-coding",
-    "version": "1.2.0",
-    "description": "",
+    "name": "micro-code",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "microphone": "*",
-        "Soroban": "github:aorczyk/soroban#v1.0.11"
+        "microphone": "*"
     },
     "files": [
+        ".vscode/settings.json",
+        "README.md",
         "main.blocks",
         "main.ts",
-        "README.md",
-        null
-    ],
-    "testFiles": [
-        "test.ts"
+        "test.ts",
+        "tsconfig.json"
     ],
     "targetVersions": {
         "target": "5.0.12",
