@@ -5,8 +5,6 @@
 [![Version](https://img.shields.io/github/tag/umairshaheen78/micro-code?include_prereleases=&sort=semver&color=blue)](https://github.com/umairshaheen78/micro-code/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
-<div align="center">
-
 [![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/umairshaheen78/micro-code/generate)
 
 [![View site - Github Pages](https://img.shields.io/badge/View_site-GITHUB_Pages-2ea44f?style=for-the-badge)](https://umairshaheen78.github.io/micro-code/)
