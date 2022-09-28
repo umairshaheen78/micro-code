@@ -1,3 +1,17 @@
+[![umairshaheen78 - micro-code](https://img.shields.io/static/v1?label=umairshaheen78&message=micro-code&color=blue&logo=github)](https://github.com/umairshaheen78/micro-code "Go to GitHub repo")
+[![stars - micro-code](https://img.shields.io/github/stars/umairshaheen78/micro-code?style=social)](https://github.com/umairshaheen78/micro-code)
+[![forks - micro-code](https://img.shields.io/github/forks/umairshaheen78/micro-code?style=social)](https://github.com/umairshaheen78/micro-code)
+
+[![GitHub tag](https://img.shields.io/github/tag/umairshaheen78/micro-code?include_prereleases=&sort=semver&color=blue)](https://github.com/umairshaheen78/micro-code/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+
+<div align="center">
+
+[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/umairshaheen78/micro-code/generate)
+
+[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://umairshaheen78.github.io/micro-code/)
+
+Released under [MIT](/LICENSE) by [@umairshaheen78](https://github.com/umairshaheen78).
 
 > Open this page at [https://umairshaheen78.github.io/micro-code/](https://umairshaheen78.github.io/micro-code/)
 
