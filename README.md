@@ -13,18 +13,18 @@ Released under [MIT](/LICENSE) by [@umairshaheen78](https://github.com/umairshah
 
 > Open this page at [https://umairshaheen78.github.io/micro-code/](https://umairshaheen78.github.io/micro-code/)
 
-## Use as Extension
+## Use As an Extension
 
-This repository can be added as an **extension** in MakeCode.
+This repository can be added as an **extension** in MakeCode by doing this: 
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/umairshaheen78/micro-code** and import
 
-## Edit this project ![Build status badge](https://github.com/umairshaheen78/micro-code/workflows/MakeCode/badge.svg)
+## Edit This Project
 
-To edit this repository in MakeCode.
+To edit this repository in MakeCode:
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
