@@ -30,7 +30,7 @@ To edit this repository in MakeCode:
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/umairshaheen78/micro-code** and click import
 
-## Blocks preview
+## Blocks Preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
@@ -39,4 +39,4 @@ This image may take a few minutes to refresh.
 
 #### Metadata (used for search, rendering)
 
-* for PXT/microbit
+* PXT/microbit
