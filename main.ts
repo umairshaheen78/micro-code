@@ -1,11 +1,11 @@
 input.onButtonPressed(Button.A, function () {
-    basic.showString("" + (images.createImage(`
+    basic.showLeds(`
         . . . . .
         . . . . .
         . . . . #
         . # . # .
         . . # . .
-        `)))
+        `)
     basic.showLeds(`
         . # . . .
         . # . . .
