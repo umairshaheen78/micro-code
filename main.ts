@@ -13,6 +13,7 @@ input.onButtonPressed(Button.A, function () {
         . # # # .
         . # # # .
         `)
+    basic.showArrow(ArrowNames.East)
     basic.clearScreen()
 })
 input.onButtonPressed(Button.AB, function () {
@@ -25,6 +26,8 @@ input.onButtonPressed(Button.AB, function () {
         `)
     basic.showString("A = ")
     basic.showNumber(2025)
+    basic.showArrow(ArrowNames.West)
+    basic.showArrow(ArrowNames.East)
     basic.clearScreen()
 })
 input.onButtonPressed(Button.B, function () {
@@ -119,4 +122,5 @@ input.onGesture(Gesture.Shake, function () {
 let temp = 0
 basic.showString("Start?")
 basic.pause(1000)
+basic.showArrow(ArrowNames.West)
 basic.clearScreen()
