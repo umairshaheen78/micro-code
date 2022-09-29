@@ -26,8 +26,6 @@ input.onButtonPressed(Button.AB, function () {
         `)
     basic.showString("A = ")
     basic.showNumber(2025)
-    basic.showArrow(ArrowNames.West)
-    basic.showArrow(ArrowNames.East)
     basic.clearScreen()
 })
 input.onButtonPressed(Button.B, function () {
@@ -47,6 +45,8 @@ input.onGesture(Gesture.Shake, function () {
     temp = input.temperature()
     basic.showNumber(temp)
     basic.showString("°C")
+    basic.showArrow(ArrowNames.West)
+    basic.showArrow(ArrowNames.East)
     basic.showLeds(`
         # . . . .
         . . . . .
