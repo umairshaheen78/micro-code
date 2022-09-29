@@ -43,6 +43,7 @@ input.onButtonPressed(Button.B, function () {
 input.onGesture(Gesture.Shake, function () {
     temp = input.temperature()
     basic.showNumber(temp)
+    basic.showString("°C")
     basic.showLeds(`
         # . . . .
         . . . . .
