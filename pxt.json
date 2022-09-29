@@ -1,6 +1,5 @@
 {
     "name": "micro-code",
-    "version": "1.6.0",
     "dependencies": {
         "core": "*",
         "microphone": "*"
@@ -11,8 +10,7 @@
         "main.blocks",
         "main.ts",
         "test.ts",
-        "tsconfig.json",
-        null
+        "tsconfig.json"
     ],
     "targetVersions": {
         "target": "5.0.12",

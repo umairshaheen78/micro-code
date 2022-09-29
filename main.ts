@@ -6,7 +6,6 @@ input.onButtonPressed(Button.A, function () {
         . # . # .
         . . # . .
         `)
-    basic.pause(1000)
     basic.showLeds(`
         . # . . .
         . # . . .
@@ -14,6 +13,7 @@ input.onButtonPressed(Button.A, function () {
         . # # # .
         . # # # .
         `)
+    basic.clearScreen()
 })
 input.onButtonPressed(Button.AB, function () {
     basic.showLeds(`
@@ -25,6 +25,7 @@ input.onButtonPressed(Button.AB, function () {
         `)
     basic.showString("A = ")
     basic.showNumber(2025)
+    basic.clearScreen()
 })
 input.onButtonPressed(Button.B, function () {
     basic.showLeds(`
@@ -37,6 +38,7 @@ input.onButtonPressed(Button.B, function () {
     basic.showString("Solve")
     basic.pause(1000)
     basic.showString("45^2")
+    basic.clearScreen()
 })
 input.onGesture(Gesture.Shake, function () {
     basic.showLeds(`
@@ -109,6 +111,8 @@ input.onGesture(Gesture.Shake, function () {
         . . . . .
         # . . . .
         `)
+    basic.clearScreen()
 })
-basic.pause(1000)
 basic.showString("Start?")
+basic.pause(1000)
+basic.clearScreen()
