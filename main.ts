@@ -15,10 +15,6 @@ input.onButtonPressed(Button.A, function () {
         `)
     basic.clearScreen()
 })
-input.onGesture(Gesture.ScreenDown, function () {
-    temp = input.temperature()
-    basic.showNumber(temp)
-})
 input.onButtonPressed(Button.AB, function () {
     basic.showLeds(`
         . # . . .
@@ -45,6 +41,8 @@ input.onButtonPressed(Button.B, function () {
     basic.clearScreen()
 })
 input.onGesture(Gesture.Shake, function () {
+    temp = input.temperature()
+    basic.showNumber(temp)
     basic.showLeds(`
         # . . . .
         . . . . .
